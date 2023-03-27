@@ -1,5 +1,7 @@
 # Homework
 
+# Vastaus: Kotitehtävät tehty
+
 ## Task 1/2: Reading
 
 - [What is Greedy Algorithm: Example, Applications, Limitations and More](https://www.simplilearn.com/tutorials/data-structure-tutorial/greedy-algorithm)
